@@ -1,0 +1,16 @@
+# Ignore dataset images and text files
+data/
+*.jpg
+*.jpeg
+*.png
+
+# Ignore massive model weights and extracted features
+models/
+*.keras
+*.h5
+*.pkl
+
+# Ignore Python environment files
+__pycache__/
+.venv/
+env/
