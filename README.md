@@ -7,7 +7,7 @@ An end-to-end Machine Learning pipeline that generates descriptive English capti
 2. **Decoder (RNN/LSTM):** An embedding layer and LSTM network process the text sequences.
 3. **Merge Layer:** The visual vector and text sequences are combined to predict the next word in the caption probability distribution.
 ### 📐 System Flow Diagram
-![CNN-LSTM Architecture Diagram](architecture.png)
+![CNN-LSTM Architecture Diagram](https://raw.githubusercontent.com/Shivam0318/Image-Caption-Generator/main/architecture.png)
 
 ## 🛠️ Tech Stack
 * **Deep Learning:** TensorFlow, Keras
